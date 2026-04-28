@@ -26,6 +26,13 @@ Nested subqueries, window functions, CTEs, and performance optimization.
 
 ## Practice Question
 
+### Easy Level
+1. Retrieve the names of all tracks that have more than 1 billion streams.
+2. List all albums along with their respective artists.
+3. Get the total number of comments for tracks where licensed = TRUE.
+4. Find all tracks that belong to the album type single.
+5. Count the total number of tracks by each artist.
+
 ### Medium Level
 1. Calculate the average danceability of tracks in each album.
 2. Find the top 5 tracks with the highest energy values.
